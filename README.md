@@ -1,5 +1,5 @@
 # BGCGAN (Background Conditioned Generative Adversarial Network)
-A novel deep learning based end-to-end framework for peforming moving object segementation on videos.
+A novel deep learning based end-to-end framework for performing moving object segmentation on videos.
 
 ## Dataset Used: 
 CDnet2014
